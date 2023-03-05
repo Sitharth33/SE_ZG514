@@ -2,4 +2,3 @@
 Devops assignment 1
 
 Created this repo for the Devops assignment 1
-and will be using this
